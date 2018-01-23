@@ -1,0 +1,14 @@
+{
+  "name": {
+    "en": "Implementation status"
+  },
+  "description": {
+    "en": "In Mexico, when talking about works and services related with them it is necessary to publish a set of specific variables about its implementation. One of them is the implementation status of the work or service related with it. See discussion in https://github.com/open-contracting/standard/issues/624"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/INAImexico/ocds_implementationStatus_extension"
+  },
+  "codelists": [
+    "implementationStatus.csv",
+  ]
+}
