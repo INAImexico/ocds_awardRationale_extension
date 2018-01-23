@@ -1,0 +1,16 @@
+{
+  "definitions": {
+    "Award": {
+      "properties": {
+        "rationale": {
+          "title": "Award rationale",
+          "description": "A short summary of the reasons for making this specific award, and/or selecting the particular supplier, provided in free text. More detail can be provided in attached documents.",
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}
