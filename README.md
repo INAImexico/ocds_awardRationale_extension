@@ -11,11 +11,7 @@ Add a new field named “rationale” to the “Award” object.
 
   - Awards
     - Award
-      - id
-      - tittle
-      - description
       - rationale (string, null)
-      - [...]
 
 ## Defining texts:
 
