@@ -1,0 +1,14 @@
+{
+  "name": {
+    "en": "Award rationale"
+  },
+  "description": {
+    "en": "The award rationale is a short text describing the reasons why the award was made for a particular supplier. It is a data that can be useful to understand, in a simple way, the end of the evaluation period. In Mexico, from INAI we have this data in our system and its publication is mandatory according to our Freedom for Information Act. See discussion in https://github.com/open-contracting/standard/issues/625"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/INAImexico/ocds_awardRationale_extension"
+  }
+}
